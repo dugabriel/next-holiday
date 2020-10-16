@@ -1,1 +1,1 @@
-Project for company ngautomotiva using Nodejs, Mysql, EJS, Express, RESTful
+Project for fun to learning google AD
